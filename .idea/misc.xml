@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../configServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../AirePlane/pom.xml" />
       </list>
     </option>
   </component>
